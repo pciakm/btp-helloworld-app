@@ -1,0 +1,7 @@
+<mvc:View controllerName="sap.btp.helloworldui5.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <Button id="idBtn" text="Press me" press="onPress"/>
+    </Page>
+</mvc:View>
