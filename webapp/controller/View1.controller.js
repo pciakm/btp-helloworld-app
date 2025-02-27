@@ -8,7 +8,7 @@ sap.ui.define([
         onInit() {
         },
         onPress(){
-            MessageBox.alert("I have an alert for you");
+            MessageBox.alert("I have an alert box");
         }
     });
 });
